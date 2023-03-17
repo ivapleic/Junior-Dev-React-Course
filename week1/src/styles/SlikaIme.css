@@ -1,0 +1,26 @@
+.slikaIme{
+    padding: 15px 25px;
+    border-bottom: 1px solid #e1f1ff;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.ime {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Lora', serif;
+}
+
+.slika {
+    border-radius: 50%;
+    margin-top: 1px;
+    margin-bottom: 12px;
+    height: 150px;
+    width: 150px;
+}

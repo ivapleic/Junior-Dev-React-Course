@@ -1,0 +1,26 @@
+.sposobnosti {
+    height: 33.33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading2 {
+    display: flex;
+    align-self: center;
+    margin:10px 0px;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+}
+
+.sposobnost {
+    width: 500px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.tekst {
+    font-family: 'Lora', serif;
+    text-align: center;
+    margin-bottom: 10px;
+}

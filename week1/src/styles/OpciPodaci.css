@@ -1,0 +1,31 @@
+.opciPodaci {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    height: 180px; 
+    border-bottom: 1px solid #e1f1ff;
+}
+
+.pojmovi {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: 'Lora', serif;
+    border-bottom: 1px solid #e1f1ff;
+    padding: 0px 10px;
+}
+.podaci {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    font-family: 'Lora', serif;
+    border-bottom: 1px solid #e1f1ff;
+    padding: 0px 10px;
+}
+.heading1 {
+    text-align: center;
+    margin:10px 0px;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+}
