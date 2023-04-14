@@ -1,0 +1,39 @@
+.emailBox {
+    margin:2% 5% ;
+    padding: 1% 2%;
+    padding-top: 5px;
+}
+
+.heading {
+    margin-right: 78%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: bold;
+    
+}
+
+.contactBox label {
+    padding: 1%;
+    margin-right: 86%;
+
+}
+
+input {
+    width: 400px;
+    height: 25px;
+    margin-top: 2%;
+}
+
+input.input-error,
+select.input-error {
+  border-color: rgb(197, 25, 25);
+  border-style: bolder;
+}
+.error {
+    color: #fc8181;
+    font-size: 0.75rem;
+    text-align: left;
+    margin-top: 0.25rem;
+    margin-left: 5%;
+
+  }

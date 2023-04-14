@@ -1,0 +1,32 @@
+.paymentNatpis {
+    margin-top: 2%;
+    margin-bottom: -2%;
+    margin-left: 8%;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 115px;
+}
+
+.paymentBox input {
+    width: 15px;
+    height: 15px;
+    margin-left: 5%;
+}
+
+.paymentBox label {
+    
+    width: 100px;
+}
+
+
+.paymentBox{
+   
+    margin-right: 5%;
+    margin-left : 5%;
+    border-radius: 1.5rem;
+    border-color: rgb(211, 211, 211);
+    border-style: solid; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}

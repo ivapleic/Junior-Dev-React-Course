@@ -1,0 +1,13 @@
+.checkboxBox {
+    margin: 20px;
+}
+
+.checkboxBox #termsAccepted {
+    width: 15px;
+    height: 15px;
+}
+
+.checkboxBox label {
+    margin-right: 60%;
+    margin-left: 5px;
+}

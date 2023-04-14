@@ -1,0 +1,8 @@
+.potvrdaBox #submitButton {
+    background-color: white;;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    margin-bottom: 15px;
+}

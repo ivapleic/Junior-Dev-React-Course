@@ -1,0 +1,22 @@
+html > body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c3879;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  width: 700px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  padding: 10px 7px;
+
+}

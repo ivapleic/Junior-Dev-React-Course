@@ -1,0 +1,29 @@
+.heading {
+    margin-right: 78%;
+    margin-top: 1%;
+    
+}
+
+.addressBox{
+    margin-right: 5%;
+    margin-left : 5%;
+}
+
+input {
+    width: 400px;
+    height: 25px;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.AddressBox label {
+    padding: 1%;
+    margin-right: 86%;
+    margin-left: 3%;
+}
+select {
+    width: 407px;
+    height: 25px;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
