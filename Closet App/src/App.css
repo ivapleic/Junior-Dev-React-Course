@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app {
+   background-color: white; 
+  display: flex;
+  flex-direction: column;
+   position: fixed;
+  top: 0; 
+  left: 0; 
+  height: 100vh; 
+  width: 100vw; 
+}
+
+.heading {
+  background-color: black;
+  padding: 0px;
+}
+
+.heading p {
+  font-size: 20px;
+  font-family: 'GFS Didot', serif;
+  color: white;
+  margin: 10px;
+}
+
+.add-closet-filter { 
+  background-color: #dedede; 
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.closet-filter {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  margin: 0px 30px;
+}

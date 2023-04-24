@@ -1,0 +1,109 @@
+.add-new {
+  background-color: white;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dodaj-novo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10%;
+  width: 70%;
+  margin-top: 15px;
+  border-bottom: 1px black solid;
+}
+
+.dodaj-novo p {
+  font-size: 1.5em;
+  font-family: "GFS Didot", serif;
+}
+.add-new form {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  width: 90%;
+  justify-content: space-between;
+  margin: 20px 10px;
+}
+
+.type-color {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.size-date {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+}
+.save-btn {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.save-btn button {
+    border: 1px black solid;
+}
+
+select {
+  text-align: center;
+}
+
+.type {
+  width: 50%;
+}
+
+.type input {
+  width: 100%;
+}
+
+.size {
+  width: 50%;
+}
+
+.size input {
+  width: 100%;
+}
+
+.color {
+  width: 50%;
+}
+
+.color input {
+  width: 60%;
+}
+
+.date {
+  width: 50%;
+}
+
+.date input {
+  width: 60%;
+}
+
+.image input {
+  width: 100%;
+}
+
+label {
+  font-family: "GFS Didot", serif;
+}
+
+select {
+  font-family: "GFS Didot", serif;
+}
+
+input {
+  font-family: "GFS Didot", serif;
+}

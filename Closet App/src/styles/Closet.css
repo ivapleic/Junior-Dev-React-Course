@@ -1,0 +1,49 @@
+.closet {
+    height: 80%;
+    width: 100%;
+    display: flex;
+}
+
+.table-div {
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    height: 100%;
+    width: 100%;
+}
+
+.closet-table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+.closet-table td,
+.closet-table th {
+  border: 1px solid white;
+  padding: 2px;
+  text-align: center;
+  max-height: 40px;
+}
+
+.closet-table tr {
+  max-height: 40px;
+}
+
+.options-button {
+  padding: 2px 2px;
+  margin: 0px 3px;
+  background-color: white;
+  color: black;
+  height: 40px;
+  width: 70px;
+  font-size: 15px;
+}
+
+img {
+  height: 40px;
+  width: 40px;
+  max-height: 40px;
+}
+
+
